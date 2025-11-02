@@ -8,4 +8,4 @@ That being said, I created everything from scratch other than the util.c and uti
 
 How to run:
   1. Compile the program through make
-  2. run "./multi-lookup <# requester threads> <#resolver threads> <requester file> < resolver file> <input files (can use regex expressions)>
+  2. run "./multi-lookup <# requester threads> <#resolver threads> <requester 'file'> <resolver 'file'> <input files (can use regex expressions)>
