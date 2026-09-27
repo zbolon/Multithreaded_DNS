@@ -87,7 +87,7 @@ This prevents race conditions when multiple threads access the same resource con
 * GCC
 * POSIX threads
 * GNU Make
-* Linux/macOS environment with pthread support
+* Linux environment with pthread support
 
 ### Compile
 
